@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205921018786",
+    "project_id": "token-bb829",
+    "storage_bucket": "token-bb829.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205921018786:android:65cc0e0cf7bb506a4788fb",
+        "android_client_info": {
+          "package_name": "com.tue1501.mynewproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8OtbSzKvt3Vjm9b88UuBh03qHve1Wb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

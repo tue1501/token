@@ -85,7 +85,7 @@ const UI = () => {
     <ScrollView style={styles.container}>
       <Text style={styles.title}>📲 Expo Push Notification Viewer</Text>
       <Text style={styles.label}>Expo Push Token:</Text>
-      <Text style={styles.token}>{token || '🔄 Đang lấy token...'}</Text>
+      <Text style={styles.token}>{token || '🔄 Đang lấy token...123'}</Text>
 
       <Text style={styles.label}>Thông báo đã nhận:</Text>
       {notifications.length > 0 ? (

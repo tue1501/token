@@ -16,15 +16,20 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.tue1501.mynewproject",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.tue1501.mynewproject"
+      "googleServicesFile": "./android/app/google-services.json",
+      "permissions": ["NOTIFICATIONS"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "plugins": [
+      "expo-notifications"
+    ],
     "extra": {
       "eas": {
         "projectId": "fd9e6774-26b2-4e90-ba68-deeccd510bb2"
